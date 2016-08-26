@@ -1,2 +1,2 @@
 Introduction
-    Exercises for C language, enjoy it!
+    Some simple exercises of C programming
