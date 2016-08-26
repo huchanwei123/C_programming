@@ -1,2 +1,1 @@
-Introduction
-    Some simple exercises of C programming
+Some simple exercises of C programming
